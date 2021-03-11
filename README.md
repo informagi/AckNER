@@ -24,4 +24,4 @@ The output folder is the folder where you want to store a csv file. Note that bo
 
 **Results of the study:**
 
-The repository also contains the results of the comparison of our program's output to the golden standard file where the results are stored against each other and the type of the result and the outcome is showed (tp - true positives, fp - false positives, fn - false negatives).
+The repository also contains the results of the comparison of our program's output to the golden standard file (synt_R.csv). The results are stored against each other and the type of the result and the outcome is showed (tp - true positives, fp - false positives, fn - false negatives).
