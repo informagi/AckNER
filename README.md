@@ -12,7 +12,7 @@ The file acknow_mod.py contains the following 5 functions
 - the fourth function extracts contract numbers, grant numbers and also abbreviations
 - the fifth function writes the result into a csv file
 
-Docker:
+# Docker
 
 
 In order to run the package on docker you need to
@@ -22,6 +22,6 @@ In order to run the package on docker you need to
 
 The output folder is the folder where you want to store a csv file. Note that both paths should be absolute and the data should only be in pdf format. 
 
-Results of the study:
+# Results of the study
 
 The repository also contains the results of the comparison of our program's output to the golden standard file where the results are stored against each other and the type of the result and the outcome is showed (tp - true positives, fp - false positives, fn - false negatives).
