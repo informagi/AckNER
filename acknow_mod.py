@@ -199,7 +199,7 @@ def to_csv(path):
                     print("Failed to parse %s" % (filename))
                     print(e)
                 else:
-                    print("skipping: %s" % (filename))
+                    print("reading: %s" % (filename))
         nm.close()
 
 c = to_csv("/data/articles")
